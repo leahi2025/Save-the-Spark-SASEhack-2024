@@ -1,0 +1,3 @@
+repository "SASEHackTeamE@alliu7005@cloud"
+  path "/"
+    smartbranch "/main"

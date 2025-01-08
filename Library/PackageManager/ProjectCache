@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638636934173492799
-    m_Hash: 1525443029
+      ticks: 638638246377090551
+    m_Hash: 1038303624
   m_LockFileStatus:
     m_FilePath: C:/Users/aymli/SASEHack 2024/SASEHackTeamE/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638636934173547993
-    m_Hash: 683342763
+      ticks: 638638246377216389
+    m_Hash: 3232135325
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,12 +22,70 @@ m_LocalPackages:
 m_ProjectPath: C:/Users/aymli/SASEHack 2024/SASEHackTeamE/Packages
 m_EditorVersion: 2022.3.5f1 (9674261d40ee)
 m_ResolvedPackages:
-- packageId: com.unity.collab-proxy@2.0.5
+- packageId: com.unity.2d.sprite@1.0.0
   testable: 0
   isDirectDependency: 1
-  version: 2.0.5
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\aymli\SASEHack 2024\SASEHackTeamE\Library\PackageCache\com.unity.2d.sprite@1.0.0
+  assetPath: Packages/com.unity.2d.sprite
+  name: com.unity.2d.sprite
+  displayName: 2D Sprite
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: Use Unity Sprite Editor Window to create and edit Sprite asset properties
+    like pivot, borders and Physics shape
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - sprite
+  - sprite editor window
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.collab-proxy@2.1.0
+  testable: 0
+  isDirectDependency: 1
+  version: 2.1.0
   source: 1
-  resolvedPath: C:\Users\aymli\SASEHack 2024\SASEHackTeamE\Library\PackageCache\com.unity.collab-proxy@2.0.5
+  resolvedPath: C:\Users\aymli\SASEHack 2024\SASEHackTeamE\Library\PackageCache\com.unity.collab-proxy@2.1.0
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -161,13 +219,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638218079810000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.0/manual/index.html
+  datePublishedTicks: 638301329890000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.1/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: 7f68049e8cae5b51ad0d17cc01b8c6e802bf3866
+    revision: 179e96acc2f95fcb9dcc91b5fb2ee5f3e85d48aa
     path: 
   unityLifecycle:
     version: 2.0.5
